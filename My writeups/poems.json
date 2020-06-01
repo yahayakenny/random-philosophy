@@ -1,16 +1,17 @@
  {
-    "poems" : [{
+    "poems" : [
+        {
     "id": 1,
    "poem": "I have a very unique set of parents, My father is the most intelligent man I know and my mother has the kindest soul you would ever meet. And here I am, wishing for just a little bit of both."
 },
 
 {"id": 2,
-"poem": "When a person commits suicide, he is accusing you directly of failing him as individual and as a society. His father wonders where he went wrong and his mother blames herself for probably not showing him enough love. His siblings regret all the times they never took his fears as valid and his friends wonder whether they should have sought help earlier. When a person commits suicide, he takes away everything from you and leaves behind nothing but pain and too many unanswered questions."},
-
-
+"poem": "When a person commits suicide, he is accusing you directly of failing him as individual and as a society. His father wonders where he went wrong and his mother blames herself for probably not showing him enough love. His siblings regret all the times they never took his fears as valid and his friends wonder whether they should have sought help earlier. When a person commits suicide, he takes away everything from you and leaves behind nothing but pain and too many unanswered questions."
+},
 
 {"id": 3,
-"poem": "Let us keep pretending we are okay...Maybe one day we will be." },
+"poem": "Let us keep pretending we are okay...Maybe one day we will be."
+ },
 
 {"id": 4,
 "poem": "I have been having this recurrent nightmare and gradually it has slowly become my biggest fear about this country. I’m 70 years of age, old and greying with my fading memory and a back that barely works anymore. Ironically, I’m still faced with the same lack of basic things that i faced when I was a younger man. My grandchildren are still praying for PHCN to restore the light and i’m hoping the Naira remains stable this week. With regret in my heart, I fear I made all the wrong choices."},
@@ -55,5 +56,5 @@
     "poem": "I heard you are a writer. They say you can write away my pain. Tell me, Can you give me a new story? One in which my heart does not ache so much and my bones aren’t as heavy. "
     
 }
-
-]}
+]
+}
